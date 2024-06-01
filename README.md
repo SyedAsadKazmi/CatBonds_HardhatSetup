@@ -58,7 +58,7 @@ You can open and interact with this protocol in **Remix IDE**:
 
 ### Detailed walkthrough video showcasing the deployment and interaction using Remix:
 
-[![Deployment and Interaction with CatBonds Protocol using Remix IDE](https://img.youtube.com/vi/12u8Hgg77rg/maxresdefault.jpg)](https://youtu.be/MH3IFZZaGY4)
+[![Deployment and Interaction with CatBonds Protocol using Remix IDE](https://img.youtube.com/vi/SG1emD1Sqts/maxresdefault.jpg)](https://youtu.be/SG1emD1Sqts)
 
 ---
 
