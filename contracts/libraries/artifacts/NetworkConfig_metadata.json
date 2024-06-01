@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "NetworkConfig__NetworkNotSupported",
+				"type": "error"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libraries/NetworkConfig.sol": "NetworkConfig"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 1
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/libraries/NetworkConfig.sol": {
+			"keccak256": "0x7fe48727816e60f34cd658dc6ffff0e27c503b39e192b839a16782409ae70803",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2d878abdbe47a769b4fe11e67be702d67fa30692c208b902baaa7225eaa64e6e",
+				"dweb:/ipfs/QmeDuu72Tb5VgeNFZAyjBAMj4dowpoJUBhmmZ5zJKDVK4j"
+			]
+		}
+	},
+	"version": 1
+}
